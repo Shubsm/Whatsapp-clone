@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\shrikrishna\\Desktop\\Whatsapp\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shrikrishna\\.gradle\\caches\\transforms-2\\files-2.1\\e9ffedbe32f440287075910b3833bab0\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "292",
+                        "endColumns": "103",
+                        "endOffsets": "391"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
